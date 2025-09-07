@@ -1,0 +1,23 @@
+{
+    "posts" : [
+        {   
+            "id" : 1,
+            "tittle" : "welcome to the blog" , 
+            "body" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Error vitae dignissimos laudantium consectetur, ea incidunt? Incidunt perferendis suscipit dicta fugit quam itaque numquam, atque neque vero? Incidunt alias ut ad molestiae eaque aliquid? Deserunt expedita placeat natus accusamus officia libero fugiat quam veniam dignissimos sequi! In ullam eligendi temporibus, ipsa repellendus modi tempora autem. Corporis natus ad optio omnis at provident? Libero ea non, at corporis perferendis aperiam, dolore eligendi maxime placeat obcaecati deleniti ex, asperiores dicta quia sapiente repudiandae debitis magni odit aliquam quaerat? Blanditiis delectus voluptates nobis iure debitis, magni vitae mollitia, quos quae nesciunt quam commodi provident.",
+            "tags" : [
+                 "webdev",
+                 "coding",
+                 "news"
+            ]
+        },
+        {   "id" :2,
+            "tittle" : "top 5 css styles" , 
+            "body" :" Lorem ipsum dolor sit amet consectetur, adipisicing elit. Error vitae dignissimos laudantium consectetur, ea incidunt? Incidunt perferendis suscipit dicta fugit quam itaque numquam, atque neque vero? Incidunt alias ut ad molestiae eaque aliquid? Deserunt expedita placeat natus accusamus officia libero fugiat quam veniam dignissimos sequi! In ullam eligendi temporibus, ipsa repellendus modi tempora autem. Corporis natus ad optio omnis at provident? Libero ea non, at corporis perferendis aperiam, dolore eligendi maxime placeat obcaecati deleniti ex, asperiores dicta quia sapiente repudiandae debitis magni odit aliquam quaerat? Blanditiis delectus voluptates nobis iure debitis, magni vitae mollitia, quos quae nesciunt quam commodi provident.",
+            "tags" : [
+                "css",
+                "webdev",
+                "coding"
+            ]
+        }
+    ] 
+}
